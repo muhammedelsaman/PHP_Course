@@ -1,1 +1,1 @@
-[{"document":{"id":"1","payload":{"actor":"The fox","meta":{"type":"quick","color":"brown"},"actions":[{"action":"jump over","actor":"lazy dog"}]},"createAt":"2022-12-18 02:36:15"}},{"document":{"id":2,"payload":{"actor":"The fox","meta":{"type":"quick","color":"brown"},"actions":[{"action":"jump over","actor":"lazy dog"}]},"createAt":"2022-12-18 02:36:17"}}]
+[{"document":{"id":"1","payload":{"actor":"The fox","meta":{"type":"cunning","color":"yellow"},"actions":[{"action":"eat","actor":"blob"},{"action":"run away"}]},"createAt":"2022-12-18 12:44:10"}}]

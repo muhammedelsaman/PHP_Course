@@ -20,8 +20,8 @@ switch($route){
     case 'edit':
         include_once('edit.php');
         break;
-    case 'publish':
-        include_once('publish.php');
+    case 'delete':
+        include_once('delete.php');
         break;
     case 'list':
         include_once('list.php');
